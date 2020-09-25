@@ -48,8 +48,8 @@ class MathToken {
         return tokens
     }
     
-    // inner classes
     
+    // inner classes
     
     
     class NumberToken: MathToken {
