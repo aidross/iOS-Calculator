@@ -19,6 +19,7 @@ class MathToken {
         case div = "÷"
         case add = "+"
         case sub = "—"
+
     }
     
     let contents: MathToken
