@@ -4,4 +4,7 @@ The purpose of this project is to learn how to use storyboards and Swift to deve
 ### Goals
 - Make an easily customizable and pretty UI
 - Make a fully functional math parser
+  - Parenthesis support
+  - Input checker
 - Implement iOS features like notifications, shortcuts, and widgets
+- Multiple app icons
